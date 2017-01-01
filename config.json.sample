@@ -1,0 +1,8 @@
+{
+	"aws_region": "us-east-1",
+	"asterisk_http_url": "http://127.0.0.1:8088",
+	"asterisk_ari_username" : "wpuser",
+	"asterisk_ari_password" : "supersecret",
+	"shared_directory" : "/tmp",
+	"wunderground_api_key" : "xxxxx"
+}
